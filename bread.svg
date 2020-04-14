@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70", height="80">
+    <path fill="none" 
+    stroke="#80570d" 
+    stroke-width="2" 
+    stroke-linejoin="round"
+    d="M5,15 q23,-20,45,0"/>
+
+    <path fill="none" 
+    stroke="#80570d" 
+    stroke-linejoin="round"
+    stroke-width="2" 
+    d="M5,15 q-3,3,3,5 L7,55 q23,-3,41,0 L47,20"/>
+
+    <path fill="none" 
+    stroke="#80570d" 
+    stroke-width="2" 
+    stroke-linejoin="round"
+    d="M50,15 q3,3,-3,5"/>
+
+    <path fill="none" 
+    stroke="#80570d" 
+    stroke-width="2" 
+    d="M47,20 L47,20"/>
+
+</svg>
